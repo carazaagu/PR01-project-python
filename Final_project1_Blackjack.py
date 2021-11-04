@@ -228,5 +228,5 @@ familiar with the rules of the game. Please take a sit, enjoy the game and good 
 # Execute game
 def main():
 	Game().welcome()
-if __name__=="__main__"
+if __name__=="__main__":
 	main()
